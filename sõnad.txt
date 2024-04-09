@@ -1,0 +1,12 @@
+andmed - данные
+haldus -  администрирование
+andmebaaside haldussüsteem - система управления БД СУБД
+СУБД - MySQL, XAMPP/phpMyAdmin, MS SQL Server, DBeaver
+----------------------------
+tabel
+rida=kirje - запись
+veerg =väli - поле
+primaarne võti - Primary key
+väline võti- Foreign Key
+päring - Query -запрос
+Käivita - Execute! - Запустить
